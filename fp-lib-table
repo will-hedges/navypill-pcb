@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name blue-pill-kicad)(type KiCad)(uri D:/Code/blue-pill-kicad)(options "")(descr ""))
+  (lib (name navypill_silks)(type KiCad)(uri ${KIPRJMOD}/navypill_silks.pretty)(options "")(descr ""))
+)
